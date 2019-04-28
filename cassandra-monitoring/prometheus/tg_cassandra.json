@@ -1,0 +1,12 @@
+[
+  {
+    "targets": [ 
+      "some-cassandra:7070", 
+      "some-cassandra2:27070", 
+      "some-cassandra3:37070" 
+    ],
+    "labels": {
+      "cluster": "MyCluster"
+    }
+  }
+]
